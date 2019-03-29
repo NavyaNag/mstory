@@ -1,0 +1,18 @@
+{
+    "title_en": "Vizag-City Of Destiny",
+    "title": "వైజాగ్-సిటీ అఫ్ డెస్టినీ",
+    "cover_image": "logo.jpg",
+    "pages_count": 2,
+    "pages": [
+        {
+            "english": "One of best place to visit!!!!",
+            "image": "logo.jpg",
+            "telugu": "సందర్శించడానికి ఉత్తమమైన స్థలంలో ఒకటి !!!!"
+        },
+        {
+            "english": "Smart City.",
+            "image": "logo.jpg",
+             "telugu": "స్మార్ట్ సిటీ."
+        }
+    ]
+}
